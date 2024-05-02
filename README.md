@@ -13,6 +13,6 @@
 
 # 🤓 Deb file Create fro linux/ubntu
 
-1.  Run `npm run pack` 
-2.  Run `npm run deb64`
+step-1.  Run `npm run pack` 
+step-2.  Run `npm run deb64`
 
