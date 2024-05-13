@@ -6,8 +6,8 @@ const config = require("./config");
 
 exports.createMainWindow = async () => {
 	const window = new BrowserWindow({
-		width: 800,
-		height: 600,
+		width: 900,
+		height: 650,
 		webPreferences: {
 			nodeIntegration: true,
 			enableRemoteModule: true,

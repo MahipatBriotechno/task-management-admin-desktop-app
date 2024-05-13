@@ -1,0 +1,7 @@
+.iconButton {
+  transition: "transform 0.3s ease-in-out"; 
+}
+
+.iconButton:hover {
+  transform: scale(1.3); 
+}

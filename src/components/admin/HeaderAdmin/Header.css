@@ -1,0 +1,12 @@
+.MuiDrawer-paper {
+  width: 250px;
+  max-width: 80%;
+  padding: 5px 12px;
+}
+
+.MuiDrawer-paper .MuiList-root a {
+  display: block;
+  font-size: 15px;
+  padding: 10px;
+  margin-bottom: 2px;
+}

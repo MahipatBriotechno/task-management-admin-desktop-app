@@ -1,0 +1,10 @@
+{
+  "adminHeaderLinks": [
+    { "title": "Task", "link": "/admin/dashboard?tab=task" },
+    { "title": "Employee", "link": "/admin/dashboard?tab=employee" }
+  ],
+  "userHeaderLinks": [
+    { "title": "Task", "link": "/admin/dashboard?tab=task" },
+    { "title": "Employee", "link": "/admin/dashboard?tab=employee" }
+  ]
+}
