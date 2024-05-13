@@ -1,5 +1,5 @@
 {
-	"name": "taskmanagement-app-v2.0.4",
+	"name": "taskmanagement-app-v2.0.5",
 	"author": {
 		"email": "vaghelamahipat983@gmail.com",
 		"name": "Mahipat Vaghela",
@@ -80,8 +80,8 @@
 		"deploy": "npm run react:build && npm run electron:deploy",
 		"format": "prettier --write .",
 		"update": "taze latest -w",
-		"pack": "electron-packager . taskmanagement-app-v2.0.3 --platform linux --arch x64 --out dist/",
-		"deb64": "electron-installer-debian --src dist/taskmanagement-app-v2.0.3-linux-x64/ --dest dist/installers/ --arch amd64"
+		"pack": "electron-packager . taskmanagement-app-v2.0.5 --platform linux --arch x64 --out dist/",
+    "deb64": "electron-installer-debian --src dist/taskmanagement-app-v2.0.5-linux-x64/ --dest dist/installers/ --arch amd64"
 	},
 	"eslintConfig": {
 		"extends": [
